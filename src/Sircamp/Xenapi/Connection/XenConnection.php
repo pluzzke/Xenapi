@@ -262,6 +262,7 @@ class XenConnection
 					'Content-type'   => 'text/xml',
 					'Content-length' => strlen($req),
 				],
+				'protocols'       => [ 'https'],
 				'body'    => $req,
 				'timeout' => 60,
 				'verify'  => false,
