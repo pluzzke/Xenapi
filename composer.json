@@ -16,7 +16,7 @@
         "php": ">8.0.0",
         "respect/validation": "^2.2.3",
         "guzzlehttp/guzzle": "~7.5",
-        "phpxmlrpc/phpxmlrpc": "^4.9"
+        "phpxmlrpc/polyfill-xmlrpc": "1.0.0-rc1"
     },
     "autoload": {
         "classmap": [
