@@ -15,8 +15,7 @@
     "require": {
         "php": ">8.0.0",
         "respect/validation": "^2.2.3",
-        "guzzlehttp/guzzle": "~7.5",
-        "phpxmlrpc/extras": "^0.6.3"
+        "guzzlehttp/guzzle": "~7.5"
     },
     "autoload": {
         "classmap": [
