@@ -1,5 +1,5 @@
 {
-    "name": "sircamp/xenapi",
+    "name": "pluzzke/xenapi",
     "description": "A Xen PHP API for managment of Hypervisor and their Virtual Machine for php",
     "keywords": ["laravel","xen","phpxenapi","api","citrix","citrixapi","xmlrpc","vps","hypervisor"],
     "type": "library",
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">8.0.0",
-        "respect/validation": "^1.1",
+        "respect/validation": "^2.2.3",
         "guzzlehttp/guzzle": "~7.5"
     },
     "autoload": {
